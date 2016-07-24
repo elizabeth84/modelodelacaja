@@ -1,0 +1,11 @@
+div{
+	padding:30px;
+	background:#F9CB9C;
+	border:9px solid #CC2EFA;
+}
+p{
+	border:2px dashed black;
+	text-align: center;
+	margin:5px #F6E3CE;
+	background: white;
+}
